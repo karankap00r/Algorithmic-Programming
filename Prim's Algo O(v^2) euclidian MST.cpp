@@ -1,5 +1,6 @@
 // https://www.codechef.com/problems/CHEFGAME
 // Euclidian Maximum Spanning tree By O(V^2) Prim's Algorithm
+// You can use this implementation in case of complete graphs
 
 #include<bits/stdc++.h>
 using namespace std;
