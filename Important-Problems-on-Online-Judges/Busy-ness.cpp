@@ -1,5 +1,7 @@
-// MST
+// MST + Tree Problem
 //https://www.codechef.com/problems/GOOGOL03
+// Problem on Subtree Size and Number Of Paths With A node as intermediate node in the tree
+
 
 #include<bits/stdc++.h>
 using namespace std;
